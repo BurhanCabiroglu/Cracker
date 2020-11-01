@@ -8,30 +8,30 @@
 
 </br>
 
-## Using Cracker
+### Using Cracker
 
-### Brute Force Request Attack
+#### Brute Force Request Attack
 <img src="https://github.com/BurhanCabiroglu/Cracker/blob/main/images/test2.png" width="700">
 
 
-### Test Your Password
+#### Test Your Password
 <img src="https://github.com/BurhanCabiroglu/Cracker/blob/main/images/test4.png" width="700">
 
 
-## Classses or Pages
+### Classses or Pages
 
-### App Page
+#### App Page
 
 <img src="https://github.com/BurhanCabiroglu/Cracker/blob/main/images/test7.png" width="700">
 
 
-### Functions Page
+#### Functions Page
 
 
 <img src="https://github.com/BurhanCabiroglu/Cracker/blob/main/images/test6.png" width="700">
 
 
-### cryptoNumber Class
+#### cryptoNumber Class
 
 
 <img src="https://github.com/BurhanCabiroglu/Cracker/blob/main/images/test5.png" width="700">
